@@ -1,0 +1,2 @@
+#!/bin/bash
+gtail -n1 < iacta >> iacta
